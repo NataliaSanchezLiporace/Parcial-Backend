@@ -1,0 +1,9 @@
+com\dh\mscourse\services\StudentService.class
+com\dh\mscourse\AppConfig.class
+com\dh\mscourse\models\Course.class
+com\dh\mscourse\services\StudentService$1.class
+com\dh\mscourse\controllers\CourseRestController.class
+com\dh\mscourse\models\Student.class
+com\dh\mscourse\repositories\ICourseRepository.class
+com\dh\mscourse\services\CourseService.class
+com\dh\mscourse\MsCourseApplication.class
